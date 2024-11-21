@@ -1,2 +1,2 @@
 # jatingit-demo
-my first git repo
+My First repository
